@@ -1,2 +1,0 @@
-# linkedIn
-linkedIn
